@@ -1,0 +1,19 @@
+{
+  "name": "networkedpainting",
+  "version": "1.0.0",
+  "description": "NETWORK PAINTING",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "PAINTING",
+    "NETWORK",
+    "OSC"
+  ],
+  "author": "EARN CHAVISA",
+  "license": "ISC",
+  "dependencies": {
+    "node-osc": "^2.1.0"
+  }
+}
